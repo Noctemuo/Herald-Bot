@@ -1,2 +1,3 @@
 # Herald-Bot
-discord welcome bot
+
+welcome to the bureau, fellow intellectual
